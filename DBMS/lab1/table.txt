@@ -1,0 +1,30 @@
+create database base;
+
+\connect base;
+
+create table People
+(people_id integer primary key,
+peop_name varchar(10) not null);
+
+create table Companies
+(company_id integer primary key,
+company_name varchar(10) not null);
+
+create table Products
+(Product_id integer primary key,
+Prod_name varchar(10) not null,
+ people_id integer not null,
+company_id integer not null,
+FOREIGN KEY (people_id) REFERENCES People,
+FOREIGN KEY (company_id) REFERENCES Companies);
+
+create table Pokupatel
+( pokup_id integer primary key,
+pokup_name varchar(10) not null);
+
+create table Resultofsaling
+( Prod_name varchar(10) primary key,
+pokup_id integer not null,
+Product_id integer not null,
+mood varchar(10),
+FOREIGN KEY (pokup_id) REFERENCES Pokupatel);

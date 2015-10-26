@@ -1,0 +1,22 @@
+\connect base;
+
+insert into People values(1,'Vlad Statnyk');
+insert into People values(2,'Dima Batura');
+insert into People values(3,'Yura Gansha');
+insert into People values(4,'Seva Ostapchyk');
+
+insert into Companies values(1,'Apple');
+insert into Companies values(2,'MS');
+insert into Companies values(3,'Google');
+
+insert into Products values(1,'prod1',1,1);
+insert into Products values(2,'prod2',2,2);
+insert into Products values(3,'prod3',3,3);
+
+insert into Pokupatel values(1,'pokup1');
+insert into Pokupatel values(2,'pokup2');
+insert into Pokupatel values(3,'pokup3');
+
+insert into Resultofsaling values('prod1',1,1,'good');
+insert into Resultofsaling values('prod2',2,2,'sad');
+insert into Resultofsaling values('prod3',3,3,'angry');
