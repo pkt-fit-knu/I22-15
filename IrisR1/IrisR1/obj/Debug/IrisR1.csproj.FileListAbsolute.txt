@@ -1,0 +1,15 @@
+C:\Users\James\Documents\Visual Studio 2013\Projects\IrisR1\IrisR1\bin\Debug\IrisR1.exe.config
+C:\Users\James\Documents\Visual Studio 2013\Projects\IrisR1\IrisR1\obj\Debug\IrisR1.csprojResolveAssemblyReference.cache
+C:\Users\James\Documents\Visual Studio 2013\Projects\IrisR1\IrisR1\bin\Debug\IrisR1.exe
+C:\Users\James\Documents\Visual Studio 2013\Projects\IrisR1\IrisR1\bin\Debug\IrisR1.pdb
+C:\Users\James\Documents\Visual Studio 2013\Projects\IrisR1\IrisR1\obj\Debug\IrisR1.exe
+C:\Users\James\Documents\Visual Studio 2013\Projects\IrisR1\IrisR1\obj\Debug\IrisR1.pdb
+C:\Users\vlad__000\Documents\Visual Studio 2013\Projects\IrisR1\IrisR1\bin\Debug\IrisR1.exe.config
+C:\Users\vlad__000\Documents\Visual Studio 2013\Projects\IrisR1\IrisR1\obj\Debug\IrisR1.exe
+C:\Users\vlad__000\Documents\Visual Studio 2013\Projects\IrisR1\IrisR1\obj\Debug\IrisR1.pdb
+C:\Users\vlad__000\Documents\Visual Studio 2013\Projects\IrisR1\IrisR1\bin\Debug\IrisR1.exe
+C:\Users\vlad__000\Documents\Visual Studio 2013\Projects\IrisR1\IrisR1\bin\Debug\IrisR1.pdb
+C:\Users\vlad__000\Documents\Visual Studio 2013\Projects\IrisR1\IrisR1\obj\Debug\IrisR1.csprojResolveAssemblyReference.cache
+C:\Users\vlad_\Documents\Visual Studio 2015\Projects\CurrentSemester\IrisR1\IrisR1\bin\Debug\IrisR1.exe.config
+C:\Users\vlad_\Documents\Visual Studio 2015\Projects\CurrentSemester\IrisR1\IrisR1\obj\Debug\IrisR1.exe
+C:\Users\vlad_\Documents\Visual Studio 2015\Projects\CurrentSemester\IrisR1\IrisR1\obj\Debug\IrisR1.pdb

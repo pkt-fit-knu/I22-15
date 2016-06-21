@@ -1,0 +1,6 @@
+C:\Users\vlad__000\Documents\Visual Studio 2013\Projects\CurrentSemester\DivAndConc\InterpolationForZalik\bin\Debug\InterpolationForZalik.exe.config
+C:\Users\vlad__000\Documents\Visual Studio 2013\Projects\CurrentSemester\DivAndConc\InterpolationForZalik\bin\Debug\InterpolationForZalik.exe
+C:\Users\vlad__000\Documents\Visual Studio 2013\Projects\CurrentSemester\DivAndConc\InterpolationForZalik\bin\Debug\InterpolationForZalik.pdb
+C:\Users\vlad__000\Documents\Visual Studio 2013\Projects\CurrentSemester\DivAndConc\InterpolationForZalik\obj\Debug\InterpolationForZalik.csprojResolveAssemblyReference.cache
+C:\Users\vlad__000\Documents\Visual Studio 2013\Projects\CurrentSemester\DivAndConc\InterpolationForZalik\obj\Debug\InterpolationForZalik.exe
+C:\Users\vlad__000\Documents\Visual Studio 2013\Projects\CurrentSemester\DivAndConc\InterpolationForZalik\obj\Debug\InterpolationForZalik.pdb

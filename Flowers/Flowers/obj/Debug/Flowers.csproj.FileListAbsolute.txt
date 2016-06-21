@@ -1,0 +1,12 @@
+c:\users\vlad__000\documents\visual studio 2013\Projects\Flowers\Flowers\bin\Debug\Flowers.exe.config
+c:\users\vlad__000\documents\visual studio 2013\Projects\Flowers\Flowers\bin\Debug\Flowers.exe
+c:\users\vlad__000\documents\visual studio 2013\Projects\Flowers\Flowers\bin\Debug\Flowers.pdb
+c:\users\vlad__000\documents\visual studio 2013\Projects\Flowers\Flowers\obj\Debug\Flowers.csprojResolveAssemblyReference.cache
+c:\users\vlad__000\documents\visual studio 2013\Projects\Flowers\Flowers\obj\Debug\Flowers.exe
+c:\users\vlad__000\documents\visual studio 2013\Projects\Flowers\Flowers\obj\Debug\Flowers.pdb
+C:\Users\vlad_\Documents\Visual Studio 2015\Projects\CurrentSemester\Flowers\Flowers\bin\Debug\Flowers.exe.config
+C:\Users\vlad_\Documents\Visual Studio 2015\Projects\CurrentSemester\Flowers\Flowers\obj\Debug\Flowers.exe
+C:\Users\vlad_\Documents\Visual Studio 2015\Projects\CurrentSemester\Flowers\Flowers\obj\Debug\Flowers.pdb
+C:\Users\vlad_\Documents\Visual Studio 2015\Projects\CurrentSemester\Flowers\Flowers\bin\Debug\Flowers.exe
+C:\Users\vlad_\Documents\Visual Studio 2015\Projects\CurrentSemester\Flowers\Flowers\bin\Debug\Flowers.pdb
+C:\Users\vlad_\Documents\Visual Studio 2015\Projects\CurrentSemester\Flowers\Flowers\obj\Debug\Flowers.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\vlad__000\Documents\Visual Studio 2013\Projects\CurrentSemester\FindTypeOfText\FindTypeOfText\bin\Debug\FindTypeOfText.exe.config
+C:\Users\vlad__000\Documents\Visual Studio 2013\Projects\CurrentSemester\FindTypeOfText\FindTypeOfText\bin\Debug\FindTypeOfText.exe
+C:\Users\vlad__000\Documents\Visual Studio 2013\Projects\CurrentSemester\FindTypeOfText\FindTypeOfText\bin\Debug\FindTypeOfText.pdb
+C:\Users\vlad__000\Documents\Visual Studio 2013\Projects\CurrentSemester\FindTypeOfText\FindTypeOfText\obj\Debug\FindTypeOfText.csprojResolveAssemblyReference.cache
+C:\Users\vlad__000\Documents\Visual Studio 2013\Projects\CurrentSemester\FindTypeOfText\FindTypeOfText\obj\Debug\FindTypeOfText.exe
+C:\Users\vlad__000\Documents\Visual Studio 2013\Projects\CurrentSemester\FindTypeOfText\FindTypeOfText\obj\Debug\FindTypeOfText.pdb
